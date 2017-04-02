@@ -22,4 +22,4 @@ social:
 markdown: kramdown
 permalink: pretty
 
-gems: [jekyll-youtube]
+gems: jekyll-youtube
